@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>../../../../Users/rising-edge/Pictures/bluesky.jpg</file>
+    </qresource>
+</RCC>
